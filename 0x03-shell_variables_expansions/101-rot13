@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -lne 'printf  $. % 2 == 1'
+tr 'echo {a..z} | tr -d' '' 'echo {n..z} $(echo {a..m} | tr -d' '' | tr 'echo {A. $echo {A..M}) | tr -d' ''
